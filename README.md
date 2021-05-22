@@ -1,6 +1,6 @@
 ### This is Sujoy Roy 👋
 
-## I'm a tech enthusiast!!
+## I'm a tech enthuiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I’m looking to collaborate with other developers
