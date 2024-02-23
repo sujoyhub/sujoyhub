@@ -10,10 +10,13 @@
 ---
 
 ### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=java,py,ansible,git,github,gitlab,bitbucket,anaconda,vim,linux,redhat,vscode,figma&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+### Cloud Technologies:
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform&theme=dark)](https://skillicons.dev)
 
-
+### AI Tools:
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark)](https://skillicons.dev)
 
 <br />
 <br />
