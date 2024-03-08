@@ -2,8 +2,8 @@
 
 ## I'm a tech enthuiast!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🔭 I’m looking to collaborate with other developers
+- 🌱 Currently diving into AI/ML, getting hands-on experience
+- 🔭 I believe in automating whatever is feasible in the cloud
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to paint and sketch
 
